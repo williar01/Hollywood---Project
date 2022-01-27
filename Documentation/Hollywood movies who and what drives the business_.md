@@ -15,23 +15,23 @@
 
 ***Introductory section***
 
-1.  Compare total box office compared to average price relationship.
+1.  Compare total box office compared to average price relationship. - Tyler
     
-2.  Which genre grosses the higher for each studio? Show statistics for each studio and genre.
+2.  Which genre grosses the higher for each studio? Show statistics for each studio and genre. - Gregg
     
-3.  Top 5 Actors and Actresses with highest grossing movies
+3.  Top 5 Actors and Actresses with highest grossing movies - Rochelle
     
-4.  Poster vs grossing revenue relationship.
+4.  Poster vs grossing revenue relationship. - Tyler
     
-5.  Diversity of Actors/Actresses compared to earnings?
+5.  Diversity of Actors/Actresses compared to earnings? - GP
     
-6.  Facebook like compared to earnings?
+6.  Facebook like compared to earnings?- GP
     
-7.  Ratings vs Earnings comparison?
+7.  Ratings vs Earnings comparison? Rochelle
     
-8.  Stocks compared to Earnings?
+8.  Stocks compared to Earnings? - Gregg
     
-9.  Correlation between IMDB score and Earnings?
+9.  Correlation between IMDB score and Earnings? - Last 
     
 10. ***Methodology section***
     
